@@ -1,30 +1,9 @@
 # Zodíaco
-![imagem-nlw-esports](https://user-images.githubusercontent.com/4954302/191106024-9c384d95-1139-4a88-9b94-f7abf41f6cdc.png)
 [![License: MIT](https://img.shields.io/github/license/prpires66/nlw-esports?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# NLW eSports - ignite
-  - [1. Objetivo](#1-objetivo)
-  - [2. Descrição](#2-descrição)
-  - [3. Projetos](#3-projetos)
-    - [3.1 Aplicação back-end (API)](#31-aplicação-back-end)
-    - [3.2 Aplicação front-end (mobile)](#32-aplicação-front-end-mobile)
-    - [3.3 Aplicação front-end (web)](#33-aplicação-front-end-web)
-  - [4. Leiaute](#4-leiaute)
-    - [4.1 Interface mobile](#41-interface-mobile)
-    - [4.2 Interface web](#42-interface-web)  
-  - [5. Pré-requisitos](#5-pré-requisitos)
-    - [5.1 Node.js](#51-nodejs)
-    - [5.2 npm](#52-npm)
-  - [6. Instalação](#6-instalação)
-    - [6.1 Clonar o repositório](#61-clonar-o-repositório)
-    - [6.2 Acessar o diretório do projeto](#62-acessar-o-diretório-do-projeto)
-    - [6.3 Instalar as dependências](#63-instalar-as-dependências)
-  - [7. Execução](#7-execução)
-  - [8. Licença](#8-licença)
-  
 ## 1. Objetivo
  Registrar as atividades de estudo desenvolvidas durante o evento **\<NLW/> eSportes - 2022.**
 
@@ -46,10 +25,7 @@ Desenvolvimento de aplicação para web utilizando [React](https://reactjs.org/)
 O leiaute do projeto pode ser visualizado no link [design do projeto](https://www.figma.com/file/MHLGpGZ8Dq4KTU4o1GIV5M/NLW-eSports-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 * ### 4.1 Interface mobile
-![image](https://user-images.githubusercontent.com/4954302/191153751-cb792f7d-b675-4baf-980d-a22bf6b8a07b.png)
-
-* ### 4.2 Interface web
-![image](https://user-images.githubusercontent.com/4954302/191153791-01e767d6-2a83-446b-abb8-60a20d339f29.png)
+![exemplo-aplicacao](https://user-images.githubusercontent.com/4954302/191538789-bfd785ba-3350-4487-8f46-8b570a6aca8f.png)
 
 ## 5. Pré-requisitos
 
@@ -99,6 +75,6 @@ O leiaute do projeto pode ser visualizado no link [design do projeto](https://ww
    ```
 
 ## 8. Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+[![License: MIT](https://img.shields.io/github/license/prpires66/nlw-esports?style=for-the-badge)
 
-[Voltar ao topo](#1-objetivo)
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
