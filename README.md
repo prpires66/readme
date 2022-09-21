@@ -28,9 +28,6 @@ Desenvolvimento de aplicação para web utilizando [React](https://reactjs.org/)
 ## 4. Leiaute
 O leiaute do projeto pode ser visualizado no link [design do projeto](https://www.figma.com/file/MHLGpGZ8Dq4KTU4o1GIV5M/NLW-eSports-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-* ### 4.1 Interface mobile
-![exemplo-aplicacao](https://user-images.githubusercontent.com/4954302/191538789-bfd785ba-3350-4487-8f46-8b570a6aca8f.png)
-
 ## 5. Pré-requisitos
 
 ### 5.1 Node.js
