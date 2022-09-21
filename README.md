@@ -10,7 +10,9 @@
 ## 2. Descrição
 O Zodíaco é uma aplicação desenvolvida em Javascript que a partir da entrada da data de nascimento calcula o signo e mostra a previsão para o dia. A previsão é obtida a partir do acesso pela internet ao site [metrople.com](https://www.metropoles.com/) onde é feito um *web scraping* extraindo as informações do horóscopo publicado diariamente. São estraidos e mostrados os nomes dos signos com o período, previsãoe imagem dos signos.
 
-## 3. Projetos
+## 3. Demonstração da aplicação
+> A aplicação em produção pode ser acessada para teste em [zodiaco.vercel.app](https://zodiaco.vercel.app/)
+
 
 * ### 3.1 Aplicação back-end
 Desenvolvimento de uma API utilizando [Node.js](https://nodejs.org/) e [SQLite](https://www.sqlite.org/) que retorna um JSON com as informações dos games para uso pelas aplicações front-end.
