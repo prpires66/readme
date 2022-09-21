@@ -19,7 +19,7 @@ O Zodíaco é uma aplicação desenvolvida em Javascript que a partir da entrada
 > Clonar o repositório
 
    ```sh
-git@github.com:prpires66/zodiaco.git
+  git clone git@github.com:prpires66/zodiaco.git
    ```
 > Acessar o diretório do projeto   
    ```sh
@@ -27,21 +27,6 @@ git@github.com:prpires66/zodiaco.git
    ```
 > Para executar abra o arquivo index.html localizado na raiz do projeto pelo browser   
    
-## 7. Execução
->Serão necessários 02 terminais simultâneos para execucão. Um para o back-end (server) e outrao para o front-end (mobile/web) 
-   > Aplicação server
-   ```sh
-   npm run dev
-   ```
-   > Aplicação mobile
-   ```sh
-   npx expo start
-   ```
-   > Aplicação web
-   ```sh
-   npm run dev
-   ```
-
 ## 8. Licença
 ![License: MIT](https://img.shields.io/github/license/prpires66/nlw-esports?style=for-the-badge)
 
