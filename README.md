@@ -8,57 +8,22 @@
  Este projeto foi desenvolvido durante o processo de aprendizagem e consolidação dos conhecimentos em HTML5, CSS e Javascript e também técnicas básicas de *web scraping*.
 
 ## 2. Descrição
-O Zodíaco é uma aplicação desenvolvida em Javascript que a partir da entrada da data de nascimento calcula o signo e mostra a previsão para o dia. A previsão é obtida a partir do acesso pela internet ao site [metrople.com](https://www.metropoles.com/) onde é feito um *web scraping* extraindo as informações do horóscopo publicado diariamente. São estraidos e mostrados os nomes dos signos com o período, previsãoe imagem dos signos.
+O Zodíaco é uma aplicação desenvolvida em Javascript que a partir da entrada da data de nascimento calcula o signo e mostra a previsão para o dia. A previsão é obtida a partir de acesso ao site [metrople.com](https://www.metropoles.com/) onde é feito um *web scraping* extraindo as informações do horóscopo publicadas diariamente. São estraídos e mostrados os nomes dos signos e período, previsão e imagem dos signos.
 
 ## 3. Demonstração da aplicação
 > A aplicação em produção pode ser acessada para teste em [zodiaco.vercel.app](https://zodiaco.vercel.app/)
 
 ![exemplo-aplicacao](https://user-images.githubusercontent.com/4954302/191548601-c8faa155-b527-4729-890d-1a7735670d8a.png)
-
-
-* ### 3.1 Aplicação back-end
-Desenvolvimento de uma API utilizando [Node.js](https://nodejs.org/) e [SQLite](https://www.sqlite.org/) que retorna um JSON com as informações dos games para uso pelas aplicações front-end.
-
-* ###  3.2 Aplicação front-end mobile
-Desenvolvimento de aplicação para celular utilizando [React Native](https://reactnative.dev/) acessando a API do back-end e apresentando os dados no celular.
-
-* ### 3.3 Aplicação front-end web
-Desenvolvimento de aplicação para web utilizando [React](https://reactjs.org/) acessando a API do back-end e apresentando os dados no browser.
-
-## 4. Leiaute
-O leiaute do projeto pode ser visualizado no link [design do projeto](https://www.figma.com/file/MHLGpGZ8Dq4KTU4o1GIV5M/NLW-eSports-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## 5. Pré-requisitos
-
-### 5.1 Node.js
-> Faça o download e instalação do [Node.js](https://nodejs.org/)
-### 5.2 npm
-> npm (Node Package Manager)
-   ```sh
-   npm install npm@latest -g
-   ```   
    
 ## 6. Instalação
-### 6.1 Clonar o repositório
+> Clonar o repositório
+
    ```sh
-   git clone git@github.com:prpires66/nlw-eSports.git
+git@github.com:prpires66/zodiaco.git
    ```
-### 6.2 Acessar o diretório do projeto   
+> Acessar o diretório do projeto   
    ```sh
-   cd nlw-eSports.git
-   ```
-### 6.3 Instalar as dependências  
-   > Dependências da aplicação server
-   ```sh
-   cd server && npm install
-   ```
-   > Dependências da aplicação web
-   ```sh
-   cd web && npm install
-   ```
-   > Dependências da aplicação mobile
-   ```sh
-   cd mobile && npm install
+   cd zodiaco
    ```
 ## 7. Execução
 >Serão necessários 02 terminais simultâneos para execucão. Um para o back-end (server) e outrao para o front-end (mobile/web) 
