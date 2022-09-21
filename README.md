@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 1. Objetivo
- Este projeto foi desenvolvido durante o processo de aprendizagem e consolidação dos conhecimentos em HTML5, CSS e Javascript e também técnicas básicas de *web scraping*.
+ Este projeto foi desenvolvido durante o processo de aprendizagem e consolidação dos conhecimentos em HTML5, CSS e Javascript. Tammbém foram estudadas e aplicadas técnicas básicas de *web scraping*.
 
 ## 2. Descrição
 O Zodíaco é uma aplicação desenvolvida em Javascript que a partir da entrada da data de nascimento calcula o signo e mostra a previsão para o dia. A previsão é obtida a partir de acesso ao site [metrople.com](https://www.metropoles.com/) onde é feito um *web scraping* extraindo as informações do horóscopo publicadas diariamente. São estraídos e mostrados os nomes dos signos e período, previsão e imagem dos signos.
