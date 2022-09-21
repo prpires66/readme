@@ -8,7 +8,7 @@
  Este projeto foi desenvolvido durante o processo de aprendizagem e consolidação dos conhecimentos em HTML5, CSS e Javascript e também o processo básico de web scraping.
 
 ## 2. Descrição
-O NLW (*Next Level Week*) é uma ação de marketing da [Rocketseat](https://www.rocketseat.com.br/) focada em programação. A abordagem é de apresentar conteúdos práticos e desenvolver uma aplicação completa em uma semana. O evento e composto de duas trilhas de aprendizagem: **explorer**, para usuários iniciantes e **ignite** para usuários mais experientes. Este projeto acompanha o desenvolvimento da trilha ignite.
+O Zodíaco é uma aplicação desenvolvida em Javascript que a partir da entrada da data de nascimento calcula o signo e mostra a previsão para o dia. A previsão é obtida a partir do acesso pela internet ao site [metrople.com](https://www.metropoles.com/) onde é feito um web scraping extraindo as informações do horóscopo publicado diariamente. São estraidos e mostrados os nomes dos signos com o período, previsãoe imagem dos signos.
 
 ## 3. Projetos
 
@@ -75,7 +75,7 @@ O leiaute do projeto pode ser visualizado no link [design do projeto](https://ww
    ```
 
 ## 8. Licença
-[![License: MIT](https://img.shields.io/github/license/prpires66/nlw-esports?style=for-the-badge)
+![License: MIT](https://img.shields.io/github/license/prpires66/nlw-esports?style=for-the-badge)
 
 > Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
