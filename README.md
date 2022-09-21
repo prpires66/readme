@@ -13,6 +13,8 @@ O Zodíaco é uma aplicação desenvolvida em Javascript que a partir da entrada
 ## 3. Demonstração da aplicação
 > A aplicação em produção pode ser acessada para teste em [zodiaco.vercel.app](https://zodiaco.vercel.app/)
 
+![exemplo-aplicacao](https://user-images.githubusercontent.com/4954302/191548601-c8faa155-b527-4729-890d-1a7735670d8a.png)
+
 
 * ### 3.1 Aplicação back-end
 Desenvolvimento de uma API utilizando [Node.js](https://nodejs.org/) e [SQLite](https://www.sqlite.org/) que retorna um JSON com as informações dos games para uso pelas aplicações front-end.
